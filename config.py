@@ -1,10 +1,10 @@
 import os
 
-api_id =  28829496
-api_hash  = '8094341dbe5bd50090de8b12a01d04b8'
-bot_token =  '7819304857:AAFCdZWw8ElfIP4Se_kHo5qbdCexQNE6cT8'
-OWNER =  6722831365
-OWNER_USERNAME = 'Saksham'
-LOG =  -100253268913
+api_id =  26741193
+api_hash  = 'd6edb2646c502e9640c98f75a7214a5a'
+bot_token =  '7415375659:AAFjS6TkbM9Slqvj_MgXThYGoo_p7WhdKtk'
+OWNER =  7356743935
+OWNER_USERNAME = 'EchoWcho'
+LOG =  -1002479118152
 ADMINS = [OWNER, 7161486, 181369839813]
-MONGO_URI = 'mongodb+srv://lodalesson876:FKxK7BZGq1WzE4ae@cluster0.or1gz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'
+MONGO_URI = 'mongodb+srv://asapa172330:BbqjIgyf0LBPm2YW@cluster0.fes0d.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'
